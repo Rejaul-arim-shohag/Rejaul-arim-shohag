@@ -2,11 +2,11 @@
 <h3 align="center">An enthusiastic frontend developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rejaul-arim-shohag&label=Profile%20views&color=0e75b6&style=flat" alt="rejaul-arim-shohag" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rejaul-arim-shohag&label=Profile%20views&color=0e75b6&style=flat" alt="rejaul-karim-shohag" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejaul-arim-shohag" alt="rejaul-arim-shohag" /></a> </p>
 
-- 🔭 I’m currently working on [Funnel-Liner](https://funnelliner.com/)
+- 🔭 I’m currently working on [Jomee Jomaa](https://www.jomeejomaa.com)
 
 - 🌱 I’m currently learning **react-native**
 
