@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejaul-arim-shohag" alt="rejaul-arim-shohag" /></a> </p>
 
-- 🔭 I’m currently working on [Jomee Jomaa](https://www.jomeejomaa.com)
 
 🚀 Currently Working On **
 
