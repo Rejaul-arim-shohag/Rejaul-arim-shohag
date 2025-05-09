@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on [Jomee Jomaa](https://www.jomeejomaa.com)
 
-🚀 Currently Working On
+🚀 Currently Working On **
+
 Next.js: Building scalable and SEO-friendly web applications using React and server-side rendering.
 
 React Native: Developing cross-platform mobile applications for iOS and Android.
