@@ -8,9 +8,13 @@
 
 - 🔭 I’m currently working on [Jomee Jomaa](https://www.jomeejomaa.com)
 
-- 🌱 I’m currently learning **react-native**
+🚀 Currently Working On
+Next.js: Building scalable and SEO-friendly web applications using React and server-side rendering.
 
-- 💬 Ask me about **javascript,typescript,react.js, next.js, redux.**
+React Native: Developing cross-platform mobile applications for iOS and Android.
+
+
+- 💬 Ask me about **javascript,typescript,react.js, next.js,react-native, react-query, redux.**
 
 - 📫 How to reach me **rejaulkarim4740@gmail.com**
 
