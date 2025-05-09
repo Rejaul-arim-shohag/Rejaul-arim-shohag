@@ -2,11 +2,6 @@
 <h3 align="center">An enthusiastic frontend developer from Bangladesh</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rejaul-arim-shohag&label=Profile%20views&color=0e75b6&style=flat" alt="rejaul-karim-shohag" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rejaul-arim-shohag" alt="rejaul-arim-shohag" /></a> </p>
-
-
 🚀 Currently Working On **
 
 Next.js: Building scalable and SEO-friendly web applications using React and server-side rendering.
